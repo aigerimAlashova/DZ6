@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(182, 210, 200);
+    margin-left: 40px;
+}
+
+h1{
+    padding-top: 20%;
+    font-size: 2rem;
+}
+ 
